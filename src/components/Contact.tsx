@@ -8,6 +8,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Loader2, CheckCircle, AlertCircle } from 'lucide-react';
 import { SectionWrapper } from "./SectionWrapper";
 import { countryCodes } from "@/lib/countryCodes";
+import { CustomSelect } from "./CustomSelect";
 
 // Zod Schema for Validation
 const formSchema = z.object({
@@ -15,7 +16,7 @@ const formSchema = z.object({
     email: z.string().email("Invalid email address"),
     countryCode: z.string().min(1, "Required"),
     phone: z.string().min(5, "Valid phone number required"),
-    type: z.enum(["Brokerage Owner", "Team Leader", "Agent", "Other"]),
+    type: z.enum(["Founder / C-Suite", "Operations Lead", "Product Manager", "Other"]),
     url: z.string().optional(),
     budget: z.enum(["<$5k", "$5k-25k", "$25k-100k", "$100k+", "Co-Founder / Equity"]),
     timeline: z.enum(["ASAP", "1-3 Months", "3-6 Months", "Exploratory"]),
@@ -29,14 +30,18 @@ export function Contact() {
     const [isSuccess, setIsSuccess] = useState(false);
     const [error, setError] = useState<string | null>(null);
 
-    const { register, handleSubmit, watch, formState: { errors }, reset } = useForm<FormData>({
+    const { register, handleSubmit, watch, setValue, formState: { errors }, reset } = useForm<FormData>({
         resolver: zodResolver(formSchema),
         defaultValues: {
-            type: "Brokerage Owner"
+            type: "Founder / C-Suite",
+            budget: "<$5k",
+            timeline: "ASAP"
         }
     });
 
     const selectedType = watch("type");
+    const selectedBudget = watch("budget");
+    const selectedTimeline = watch("timeline");
 
     const onSubmit = async (data: FormData) => {
         setIsSubmitting(true);
@@ -174,15 +179,16 @@ export function Contact() {
                                     </div>
                                     <div className="space-y-2">
                                         <label className="text-xs uppercase tracking-wider text-neutral-500 font-semibold">Identity</label>
-                                        <select
-                                            {...register("type")}
-                                            className="w-full bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors appearance-none"
-                                        >
-                                            <option value="Brokerage Owner" className="bg-black text-white">Brokerage Owner</option>
-                                            <option value="Team Leader" className="bg-black text-white">Team Leader</option>
-                                            <option value="Agent" className="bg-black text-white">Agent</option>
-                                            <option value="Other" className="bg-black text-white">Other</option>
-                                        </select>
+                                        <CustomSelect
+                                            options={[
+                                                { value: "Founder / C-Suite", label: "Founder / C-Suite" },
+                                                { value: "Operations Lead", label: "Operations Lead" },
+                                                { value: "Product Manager", label: "Product Manager" },
+                                                { value: "Other", label: "Other" },
+                                            ]}
+                                            value={selectedType}
+                                            onChange={(val) => setValue("type", val as any)}
+                                        />
                                     </div>
                                 </div>
 
@@ -194,7 +200,7 @@ export function Contact() {
                                     <input
                                         {...register("url")}
                                         className="w-full bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors placeholder:text-neutral-700"
-                                        placeholder="https://yourbrokerage.com"
+                                        placeholder="https://yourcompany.com"
                                         suppressHydrationWarning
                                     />
                                 </div>
@@ -203,30 +209,33 @@ export function Contact() {
                                 <div className="grid md:grid-cols-2 gap-6">
                                     <div className="space-y-2">
                                         <label className="text-xs uppercase tracking-wider text-neutral-500 font-semibold">Budget Range</label>
-                                        <select
-                                            {...register("budget")}
-                                            className="w-full bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors appearance-none"
-                                        >
-                                            <option value="<$5k" className="bg-black text-white">&lt; $5k</option>
-                                            <option value="$5k-25k" className="bg-black text-white">$5k - $25k</option>
-                                            <option value="$25k-100k" className="bg-black text-white">$25k - $100k</option>
-                                            <option value="$100k+" className="bg-black text-white">$100k+</option>
-                                            <option value="Co-Founder / Equity" className="bg-black text-white">Co-Founder / Equity</option>
-                                        </select>
+                                        <CustomSelect
+                                            options={[
+                                                { value: "<$5k", label: "< $5k" },
+                                                { value: "$5k-25k", label: "$5k - $25k" },
+                                                { value: "$25k-100k", label: "$25k - $100k" },
+                                                { value: "$100k+", label: "$100k+" },
+                                                { value: "Co-Founder / Equity", label: "Co-Founder / Equity" },
+                                            ]}
+                                            value={selectedBudget}
+                                            onChange={(val) => setValue("budget", val as any)}
+                                        />
                                     </div>
                                     <div className="space-y-2">
                                         <label className="text-xs uppercase tracking-wider text-neutral-500 font-semibold">Timeline</label>
-                                        <select
-                                            {...register("timeline")}
-                                            className="w-full bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors appearance-none"
-                                        >
-                                            <option value="ASAP" className="bg-black text-white">ASAP</option>
-                                            <option value="1-3 Months" className="bg-black text-white">1-3 Months</option>
-                                            <option value="3-6 Months" className="bg-black text-white">3-6 Months</option>
-                                            <option value="Exploratory" className="bg-black text-white">Exploratory</option>
-                                        </select>
+                                        <CustomSelect
+                                            options={[
+                                                { value: "ASAP", label: "ASAP" },
+                                                { value: "1-3 Months", label: "1-3 Months" },
+                                                { value: "3-6 Months", label: "3-6 Months" },
+                                                { value: "Exploratory", label: "Exploratory" },
+                                            ]}
+                                            value={selectedTimeline}
+                                            onChange={(val) => setValue("timeline", val as any)}
+                                        />
                                     </div>
                                 </div>
+
 
                                 {/* Message */}
                                 <div className="space-y-2">

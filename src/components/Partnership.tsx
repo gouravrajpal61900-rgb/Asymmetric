@@ -25,9 +25,9 @@ export function Partnership() {
                             <span className="text-neutral-500">We Own the Data.</span>
                         </h2>
                         <p className="text-neutral-600 text-lg mb-8 leading-relaxed">
-                            Most brokerages fail at speed. Leads die in 5 minutes.
+                            Most enterprises fail at speed. Leads die in 5 minutes.
                             We build the infrastructure that replies in 8 seconds, ensuring you never
-                            lose a commission to latency.
+                            lose a deal to latency.
                         </p>
 
                         <ul className="space-y-4">

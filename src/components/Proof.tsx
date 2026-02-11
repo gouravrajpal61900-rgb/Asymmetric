@@ -47,11 +47,11 @@ export function Proof() {
                 {/* METRICS TICKER */}
                 <div className="flex flex-wrap gap-8 md:gap-24 items-baseline border-b border-white/10 pb-12 mb-12">
                     <div className="space-y-2">
-                        <p className="text-2xl md:text-4xl font-bold text-white tracking-tight">Zero Lead Leakage</p>
+                        <p className="text-2xl md:text-4xl font-bold text-white tracking-tight">Zero Operational Friction</p>
                         <p className="text-xs text-neutral-500 font-mono uppercase tracking-widest">Operational Goal</p>
                     </div>
                     <div className="space-y-2">
-                        <p className="text-2xl md:text-4xl font-bold text-white tracking-tight">Infinite Lead Capacity</p>
+                        <p className="text-2xl md:text-4xl font-bold text-white tracking-tight">Infinite Scalability</p>
                         <p className="text-xs text-neutral-500 font-mono uppercase tracking-widest">Leverage Goal</p>
                     </div>
                     <div className="space-y-2">

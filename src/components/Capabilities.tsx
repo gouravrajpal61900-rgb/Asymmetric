@@ -22,7 +22,7 @@ const capabilities = [
     },
     {
         title: "Sovereign Sales Layers",
-        description: "Lead ingestion infrastructure that feels native to your brokerage. We capture, qualify, and convert leads while you sleep.",
+        description: "Lead ingestion infrastructure that feels native to your enterprise. We capture, qualify, and convert leads while you sleep.",
         icon: Zap,
     },
 ];
