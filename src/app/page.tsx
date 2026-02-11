@@ -103,7 +103,7 @@ export default function HeroV3() {
             </AnimatePresence>
 
             {/* Hero Content - V2 Clean Glow */}
-            <section className="min-h-screen w-full flex flex-col items-center justify-between relative z-20 text-center px-6 pt-32 pb-24">
+            <section className="min-h-screen w-full flex flex-col items-center justify-between relative z-20 text-center px-4 md:px-6 pt-20 md:pt-32 pb-12 md:pb-24">
 
                 {/* UPPER SPACER */}
                 <div className="flex-none" />
@@ -174,7 +174,7 @@ export default function HeroV3() {
                 <Partnership />
             </section>
 
-            <section className="relative z-10 pt-20 bg-black font-sans">
+            <section className="w-full relative z-10 pt-20 bg-black font-sans">
                 <Proof />
                 <Contact />
             </section>

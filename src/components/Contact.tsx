@@ -122,6 +122,7 @@ export function Contact() {
                                             {...register("name")}
                                             className="w-full bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors placeholder:text-neutral-700"
                                             placeholder="John Doe"
+                                            suppressHydrationWarning
                                         />
                                         {errors.name && <p className="text-red-400 text-xs flex items-center gap-1"><AlertCircle size={12} /> {errors.name.message}</p>}
                                     </div>
@@ -131,6 +132,7 @@ export function Contact() {
                                             {...register("email")}
                                             className="w-full bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors placeholder:text-neutral-700"
                                             placeholder="john@example.com"
+                                            suppressHydrationWarning
                                         />
                                         {errors.email && <p className="text-red-400 text-xs flex items-center gap-1"><AlertCircle size={12} /> {errors.email.message}</p>}
                                     </div>
@@ -150,6 +152,7 @@ export function Contact() {
                                                     placeholder="+1"
                                                     className="w-full bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors placeholder:text-neutral-500"
                                                     list="country-codes-list"
+                                                    suppressHydrationWarning
                                                 />
                                                 <datalist id="country-codes-list">
                                                     {countryCodes.map((country) => (
@@ -163,6 +166,7 @@ export function Contact() {
                                                 type="tel"
                                                 className="flex-1 min-w-0 bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors placeholder:text-neutral-700"
                                                 placeholder="(555) 000-0000"
+                                                suppressHydrationWarning
                                             />
                                         </div>
                                         {errors.countryCode && <p className="text-red-400 text-xs flex items-center gap-1"><AlertCircle size={12} /> Code required</p>}
@@ -191,6 +195,7 @@ export function Contact() {
                                         {...register("url")}
                                         className="w-full bg-black/20 border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-white/30 transition-colors placeholder:text-neutral-700"
                                         placeholder="https://yourbrokerage.com"
+                                        suppressHydrationWarning
                                     />
                                 </div>
 

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { CSPostHogProvider } from "./providers";
 import "./globals.css";
+import { FaviconAnimator } from "@/components/FaviconAnimator";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -32,6 +33,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased debug-screens`}
         suppressHydrationWarning
       >
+        <FaviconAnimator />
         <CSPostHogProvider>{children}</CSPostHogProvider>
       </body>
     </html>

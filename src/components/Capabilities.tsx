@@ -59,7 +59,7 @@ export function Capabilities() {
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true }}
                         transition={{ duration: 0.5, delay: index * 0.1 }}
-                        className="group p-8 rounded-3xl bg-white border border-neutral-200/60 shadow-[0_8px_30px_rgb(0,0,0,0.04)] hover:shadow-2xl hover:border-black/5 transition-all duration-300"
+                        className="group p-6 md:p-8 rounded-3xl bg-white border border-neutral-200/60 shadow-[0_8px_30px_rgb(0,0,0,0.04)] hover:shadow-2xl hover:border-black/5 transition-all duration-300"
                     >
                         <div className="mb-6 inline-flex p-3 rounded-2xl bg-black/5 text-black group-hover:bg-black group-hover:text-white transition-colors">
                             <cap.icon size={24} />
