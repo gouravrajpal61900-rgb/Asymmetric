@@ -3,8 +3,8 @@
 import { useEffect, useRef } from 'react';
 
 export function FaviconAnimator() {
-    const requestRef = useRef<number>();
-    const startTimeRef = useRef<number>();
+    const requestRef = useRef<number | null>(null);
+    const startTimeRef = useRef<number | null>(null);
 
     useEffect(() => {
         // Find existing icon or create new one
