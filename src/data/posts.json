@@ -1,0 +1,62 @@
+[
+    {
+        "id": "entity-auth-demo",
+        "title": "The ROI of Autonomous AI Agents in Enterprise Workflows",
+        "slug": "roi-autonomous-ai-agents-enterprise",
+        "content": "<h2>The Shift from Copilots to Autonomy</h2><p>While 2024 was the year of the 'Copilot', 2026 is the year of the <strong>Autonomous Agent</strong>. Enterprises are no longer looking for tools that assist humans; they are building digital workforces that execute complete workflows.</p><h2>Calculating the Value</h2><p>Our internal data shows that switching from human-in-the-loop to fully autonomous agents allows for a <strong>40% reduction in operational latency</strong> and a near-zero error rate in standardized tasks.</p><h2>Implementation Strategy</h2><p>To deploy these agents securely, we recommend a <a href='/tools/readiness-quiz'>Readiness Assessment</a> to ensure your data infrastructure can support non-deterministic outputs.</p>",
+        "excerpt": "Why the future of enterprise automation isn't just about faster humans, but about digital employees. We analyze the cost-benefit ratio of autonomous agents.",
+        "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1000&auto=format&fit=crop",
+        "tags": [
+            "AI Strategy",
+            "Enterprise",
+            "Automation"
+        ],
+        "date": "2026-02-12T12:00:00.000Z",
+        "author": "Asymmetric Research"
+    },
+    {
+        "id": "architecture-of-asymmetry",
+        "title": "The Architecture of Asymmetry: Unfair Advantages in a Digital Age",
+        "slug": "architecture-of-asymmetry",
+        "content": "<h2>Defining Asymmetry</h2><p>In warfare and business, asymmetry refers to leveraging strength against an opponent's weakness. In the age of AI, this means using <strong>speed and scale</strong> against bureaucratic inertia.</p><h2>The Compound Effect</h2><p>Small, autonomous teams can now outmaneuver organizations 100x their size. By decoupling output from headcount, Asymmetric entities grow revenue linearly while keeping costs flat.</p><blockquote>\"The future belongs to the lean, the automated, and the dangerously efficient.\"</blockquote>",
+        "excerpt": "How small, automated teams are dismantling legacy incumbents by decoupling revenue from headcount. The new playbook for digital dominance.",
+        "image": "https://images.unsplash.com/photo-1639322537228-ad71b965f8a6?q=80&w=1000&auto=format&fit=crop",
+        "tags": [
+            "Philosophy",
+            "Business Strategy",
+            "Scale"
+        ],
+        "date": "2026-02-10T09:00:00.000Z",
+        "author": "Gaurav Rajpal"
+    },
+    {
+        "id": "data-gravity-agents",
+        "title": "Data Gravity: Why Your AI is Only As Good As Your Archives",
+        "slug": "data-gravity-ai-readiness",
+        "content": "<h2>The Forgotten Goldmine</h2><p>Most companies sit on terabytes of unstructured data—emails, PDFs, Slack logs. This isn't digital exhaust; it's the <strong>training data for your competitive advantage</strong>.</p><h2>Structured vs. Unstructured</h2><p>Autonomous agents struggle with chaos. The first step to deployment isn't buying GPUs; it's structuring your knowledge base. Without this Foundation, your agents are hallucinating interns.</p><p>Check your data maturity with our <a href='/tools/readiness-quiz'>AI Readiness Quiz</a>.</p>",
+        "excerpt": "Your unstructured data is the fuel for autonomous agents. Why cleaning your digital archives is the highest leverage activity you can do today.",
+        "image": "https://images.unsplash.com/photo-1558486012-817176f84c6d?q=80&w=1000&auto=format&fit=crop",
+        "tags": [
+            "Data Engineering",
+            "Readiness",
+            "Infrastructure"
+        ],
+        "date": "2026-02-08T14:30:00.000Z",
+        "author": "Asymmetric Research"
+    },
+    {
+        "id": "beyond-chatbots",
+        "title": "Beyond Chatbots: The Rise of Agentic Workflows",
+        "slug": "beyond-chatbots-agentic-workflows",
+        "content": "<h2>The Chatbot Trap</h2><p>Chat interfaces are great for exploration but terrible for execution. You don't want to chat with your payroll software; you want it to <strong>just work</strong>.</p><h2>The Agentic Loop</h2><p>True value lies in <strong>Target-Driven Loops</strong>: Plan, Execute, Verify. Agents that can self-correct, access tools, and persist state are the new operating system for the enterprise.</p>",
+        "excerpt": "Why chat interfaces are a dead end for productivity, and how 'silent software' that acts on your behalf is taking over.",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1000&auto=format&fit=crop",
+        "tags": [
+            "UX Design",
+            "Agentic AI",
+            "Future of Work"
+        ],
+        "date": "2026-02-05T08:15:00.000Z",
+        "author": "Asymmetric Research"
+    }
+]

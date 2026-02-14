@@ -18,7 +18,7 @@ export function Philosophy() {
                             Our Philosophy
                         </p>
                         <h3 className="text-3xl md:text-5xl font-medium text-white leading-tight font-sans">
-                            "True leverage is silent. We build the <span className="text-neutral-500">invisible infrastructure</span> that turns audience attention into owned assets. No friction. No noise. Just scale."
+                            &quot;True leverage is silent. We build the <span className="text-neutral-500">invisible infrastructure</span> that turns audience attention into owned assets. No friction. No noise. Just scale.&quot;
                         </h3>
                     </div>
                 </motion.div>

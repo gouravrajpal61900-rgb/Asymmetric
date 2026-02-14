@@ -1,0 +1,1083 @@
+[
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "17k7a394c",
+    "timestamp": "2026-02-14T12:54:42.507Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 311,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "86fb11hwm",
+    "timestamp": "2026-02-14T12:54:03.754Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "7l5017isc",
+    "timestamp": "2026-02-14T12:48:53.937Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 168,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "9ldbic144",
+    "timestamp": "2026-02-14T12:48:47.376Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "l0tt6z5b7",
+    "timestamp": "2026-02-14T12:45:36.854Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 1034,
+      "scrollDepth": 72
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "juc8vurwk",
+    "timestamp": "2026-02-14T12:45:13.268Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "juy0gtskl",
+    "timestamp": "2026-02-14T12:27:58.406Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 957,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "kg8ih6poq",
+    "timestamp": "2026-02-14T12:27:48.834Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "ls9po26e5",
+    "timestamp": "2026-02-14T12:11:08.857Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 104,
+      "scrollDepth": 47
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "rc7pls5nd",
+    "timestamp": "2026-02-14T12:11:06.093Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3005/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "kz6o60xsg",
+    "timestamp": "2026-02-14T12:09:09.895Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "58xm6epaa",
+    "timestamp": "2026-02-14T12:08:02.681Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 1965,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "rqsxx4niw",
+    "timestamp": "2026-02-14T12:07:56.254Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 4064,
+      "scrollDepth": 44
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "wyv26gn47",
+    "timestamp": "2026-02-14T12:07:47.706Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 4040,
+      "scrollDepth": 44
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "lzdphhpct",
+    "timestamp": "2026-02-14T12:07:38.734Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "arsn2mo98",
+    "timestamp": "2026-02-14T11:34:56.589Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 138,
+      "scrollDepth": 89
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "vgxt5eit5",
+    "timestamp": "2026-02-14T11:32:21.296Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "j70hghnh8",
+    "timestamp": "2026-02-14T11:30:00.203Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 205,
+      "scrollDepth": 99
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "u9rcjqsxc",
+    "timestamp": "2026-02-14T11:29:51.841Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "pen1ckmvv",
+    "timestamp": "2026-02-14T11:26:27.374Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 765,
+      "scrollDepth": 95
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "gusra67gv",
+    "timestamp": "2026-02-14T11:26:24.143Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3005/pivot",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "8asqjtod7",
+    "timestamp": "2026-02-14T11:13:18.966Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "rqtssgp3e",
+    "timestamp": "2026-02-14T11:13:13.725Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 659,
+      "scrollDepth": 99
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "286mpl9m7",
+    "timestamp": "2026-02-14T11:10:46.473Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "5ytgxq1nk",
+    "timestamp": "2026-02-14T11:00:00.781Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "mrtekkfov",
+    "timestamp": "2026-02-14T10:59:47.582Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 11,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "hp7yr1rfj",
+    "timestamp": "2026-02-14T10:59:25.617Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "h58vttm7d",
+    "timestamp": "2026-02-14T10:59:17.617Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "http://localhost:3000/pivot",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "2d383vaxx",
+    "timestamp": "2026-02-13T20:43:24.351Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "6te3cjahy",
+    "timestamp": "2026-02-13T20:43:20.140Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 979,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "ir7je70az",
+    "timestamp": "2026-02-13T20:41:19.025Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "ylvvq8nis",
+    "timestamp": "2026-02-13T20:26:22.816Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 1517,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "eqhcjv8ix",
+    "timestamp": "2026-02-13T20:26:22.668Z"
+  },
+  {
+    "path": "/pivot",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "gsv1yx3ya",
+    "timestamp": "2026-02-13T20:25:00.745Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "2ddhgh7kx",
+    "timestamp": "2026-02-13T20:01:05.198Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 418,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "hd62vs3kh",
+    "timestamp": "2026-02-13T20:00:55.300Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 14104,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "8cjia90uo",
+    "timestamp": "2026-02-13T19:53:57.669Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "11dv8ouk6",
+    "timestamp": "2026-02-13T19:53:57.356Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "2mw4b69k2",
+    "timestamp": "2026-02-13T15:58:49.448Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 57,
+      "scrollDepth": 71
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "3i8ysxsay",
+    "timestamp": "2026-02-13T15:58:48.118Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "9g8flpy6n",
+    "timestamp": "2026-02-13T15:57:47.978Z"
+  },
+  {
+    "path": "/login",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 103,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "wl5ecse67",
+    "timestamp": "2026-02-13T15:57:47.873Z"
+  },
+  {
+    "path": "/login",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "m986jiyhm",
+    "timestamp": "2026-02-13T15:56:06.502Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 109,
+      "scrollDepth": 87
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "0m70jaipp",
+    "timestamp": "2026-02-13T15:56:06.396Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "uwggkwd1m",
+    "timestamp": "2026-02-13T15:54:16.557Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 801,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "59blq8auf",
+    "timestamp": "2026-02-13T15:54:12.392Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 716,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "nhidzsj48",
+    "timestamp": "2026-02-13T15:52:46.225Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 712,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "gn4gb7qeh",
+    "timestamp": "2026-02-13T15:52:45.991Z"
+  },
+  {
+    "path": "/login",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "qzeoahq4u",
+    "timestamp": "2026-02-13T14:38:48.942Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 1071,
+      "scrollDepth": 87
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "hmn8au3em",
+    "timestamp": "2026-02-13T14:38:48.834Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "1o2afxcko",
+    "timestamp": "2026-02-13T14:20:58.022Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "eznc4aszz",
+    "timestamp": "2026-02-13T14:20:52.144Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 335,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "cwmyr4byk",
+    "timestamp": "2026-02-13T14:20:47.438Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "ow2n9fwj3",
+    "timestamp": "2026-02-13T14:15:12.005Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 610,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "202dfobjn",
+    "timestamp": "2026-02-13T14:15:08.732Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "ikwisq7cs",
+    "timestamp": "2026-02-13T14:04:31.732Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 4,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "y68jpwc41",
+    "timestamp": "2026-02-13T14:04:26.399Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 3,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "994wl6xy0",
+    "timestamp": "2026-02-13T14:04:26.196Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 3,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "jcwco4rh6",
+    "timestamp": "2026-02-13T14:04:26.066Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 3,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "vxsuq8tpz",
+    "timestamp": "2026-02-13T14:04:25.855Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "kmm5866mg",
+    "timestamp": "2026-02-13T14:04:22.764Z"
+  },
+  {
+    "path": "/tools/readiness-quiz",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 53,
+      "scrollDepth": 70
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "cmn9scp0j",
+    "timestamp": "2026-02-13T14:04:20.541Z"
+  },
+  {
+    "path": "/tools/readiness-quiz",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "f1xcn1df0",
+    "timestamp": "2026-02-13T14:03:26.025Z"
+  },
+  {
+    "path": "/tools",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 1007,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "53ih5coqa",
+    "timestamp": "2026-02-13T14:03:25.814Z"
+  },
+  {
+    "path": "/tools",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "uwpxrq1lo",
+    "timestamp": "2026-02-13T13:46:38.676Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 24,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "jooslyoki",
+    "timestamp": "2026-02-13T13:46:38.628Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "r3clm5mue",
+    "timestamp": "2026-02-13T13:46:14.576Z"
+  },
+  {
+    "path": "/login",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 10,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "ddgmcquam",
+    "timestamp": "2026-02-13T13:46:14.513Z"
+  },
+  {
+    "path": "/login",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "16n6rxh83",
+    "timestamp": "2026-02-13T13:46:05.383Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 169,
+      "scrollDepth": 17
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "nhs749q0l",
+    "timestamp": "2026-02-13T13:46:05.202Z"
+  },
+  {
+    "path": "/",
+    "referrer": "http://localhost:3000/",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "9cz4a67f1",
+    "timestamp": "2026-02-13T13:43:16.040Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 30,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "40zvz1f30",
+    "timestamp": "2026-02-13T13:39:36.562Z"
+  },
+  {
+    "path": "/",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "2fzcpblwa",
+    "timestamp": "2026-02-13T13:39:09.618Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "2dumepk9x",
+    "timestamp": "2026-02-12T18:03:04.748Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "sow5jveqv",
+    "timestamp": "2026-02-12T14:00:28.811Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "4b1fwhmud",
+    "timestamp": "2026-02-12T14:00:18.830Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 2351,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "e2n9yvgp9",
+    "timestamp": "2026-02-12T13:59:45.884Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "3xdvhn2hk",
+    "timestamp": "2026-02-12T13:20:38.471Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 474,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "jz4v0oeq0",
+    "timestamp": "2026-02-12T13:20:38.250Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "j7306jc0y",
+    "timestamp": "2026-02-12T13:12:38.815Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 261,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "7qgdu77bc",
+    "timestamp": "2026-02-12T13:12:34.837Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "http://localhost:3000/admin",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "mctlu2rhv",
+    "timestamp": "2026-02-12T13:08:08.432Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 33,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "tv7sy2n1f",
+    "timestamp": "2026-02-12T13:08:02.706Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "azn9nk98r",
+    "timestamp": "2026-02-12T13:07:30.495Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 14,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "r9l0n1v6k",
+    "timestamp": "2026-02-12T13:07:30.448Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "6dlc09bwx",
+    "timestamp": "2026-02-12T13:07:16.334Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 30,
+      "scrollDepth": 0
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "rn8vtt70h",
+    "timestamp": "2026-02-12T13:07:16.277Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "exit",
+    "metadata": {
+      "timeOnPage": 23,
+      "scrollDepth": 100
+    },
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "xo3782wwk",
+    "timestamp": "2026-02-12T13:06:46.855Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "38uxlc89y",
+    "timestamp": "2026-02-12T13:06:46.818Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "type": "pageview",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "maax7oacp",
+    "timestamp": "2026-02-12T13:06:24.269Z"
+  },
+  {
+    "path": "/admin",
+    "referrer": "Direct",
+    "deviceType": "Desktop",
+    "ip": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+    "id": "nmdqah17z",
+    "timestamp": "2026-02-12T12:42:11.492Z"
+  }
+]

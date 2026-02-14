@@ -18,21 +18,16 @@ export function FaviconAnimator() {
 
         const animate = (time: number) => {
             if (!startTimeRef.current) startTimeRef.current = time;
-            const progress = (time - startTimeRef.current) / 2000; // 2s duration
+            const progress = (time - startTimeRef.current) / 800; // 0.8s duration
 
             // Value oscillates between 0 and 1
             const value = 0.5 + 0.5 * Math.sin(progress * 2 * Math.PI);
 
-            // Opacity: 0.4 to 1.0
-            const opacity = 0.4 + (0.6 * value);
+            // Intense pulsing parameters
+            const scale = 1 + (0.3 * value);
+            const opacity = 0.5 + (0.5 * value);
+            const strokeWidth = 2 + (8 * value);
 
-            // Stroke Width: 4 to 6
-            const strokeWidth = 4 + (2 * value);
-
-            // Inner Opacity: 1 to 0.3 (Inverse)
-            const innerOpacity = 1 - (0.7 * value);
-
-            // Theme Detection
             const isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
             const color = isDark ? 'white' : 'black';
 
@@ -40,17 +35,17 @@ export function FaviconAnimator() {
                 <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                     <defs>
                         <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-                            <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+                            <feGaussianBlur stdDeviation="${3 + 2 * value}" result="coloredBlur"/>
                             <feMerge>
-                                <feMergeNode in="coloredBlur"/>
                                 <feMergeNode in="coloredBlur"/>
                                 <feMergeNode in="SourceGraphic"/>
                             </feMerge>
                         </filter>
                     </defs>
-                    
-                    <path d="M32 8 L56 56 L8 56 Z" fill="none" stroke="${color}" stroke-width="${strokeWidth}" filter="url(#glow)" opacity="${opacity}" />
-                    <path d="M32 24 L44 48 L20 48 Z" fill="${color}" filter="url(#glow)" opacity="${innerOpacity}" />
+                    <g transform="translate(32, 32) scale(${scale}) translate(-32, -32)">
+                         <path d="M32 8 L56 56 L8 56 Z" fill="none" stroke="${color}" stroke-width="${strokeWidth}" filter="url(#glow)" opacity="${opacity}" />
+                         <path d="M32 24 L44 48 L20 48 Z" fill="${color}" filter="url(#glow)" opacity="${1 - value}" />
+                    </g>
                 </svg>
             `;
 
