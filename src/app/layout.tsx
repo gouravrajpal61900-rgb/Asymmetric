@@ -19,21 +19,21 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Ghost Skylab | The Venture Studio for Creators",
-    template: "%s | Ghost Skylab"
+    default: "Asymmetric | The Venture Studio for Creators",
+    template: "%s | Asymmetric"
   },
   description: "We build the software. You build the empire. High-leverage technical infrastructure for the world's top creators.",
   icons: {
     icon: "/favicon.svg",
   },
   openGraph: {
-    title: "Ghost Skylab | Venture Studio",
+    title: "Asymmetric | Venture Studio",
     description: "We build the software. You build the empire.",
-    url: "https://ghostskylab.com",
-    siteName: "Ghost Skylab",
+    url: "https://asymmetric.dev",
+    siteName: "Asymmetric",
     images: [
       {
-        url: "/og-image.jpg", // We need to ensure this exists or use a remote one,/ placeholder
+        url: "/og-image.jpg",
         width: 1200,
         height: 630,
       },
@@ -63,7 +63,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased debug-screens`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         suppressHydrationWarning
       >
 

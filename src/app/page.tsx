@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from "react";
-import { motion, useMotionTemplate, useMotionValue, AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence } from "framer-motion";
 import { Capabilities } from "@/components/pivot/Capabilities";
 import { Partnership } from "@/components/pivot/Partnership";
 import { Proof } from "@/components/pivot/Proof";
@@ -18,10 +18,8 @@ const HeroBackground = dynamic(() => import('@/components/pivot/HeroBackground')
 import Link from "next/link";
 import { useAuth } from "@/context/AuthContext";
 
-export default function PivotPage() {
+export default function HomePage() {
     const { user, logout } = useAuth();
-    const mouseX = useMotionValue(0);
-    const mouseY = useMotionValue(0);
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
     // Close menu on scroll
@@ -35,12 +33,6 @@ export default function PivotPage() {
         return () => window.removeEventListener('scroll', handleScroll);
     }, [isMenuOpen]);
 
-    function handleMouseMove({ currentTarget, clientX, clientY }: React.MouseEvent) {
-        const { left, top } = currentTarget.getBoundingClientRect();
-        mouseX.set(clientX - left);
-        mouseY.set(clientY - top);
-    }
-
     const scrollToSection = (id: string) => {
         setIsMenuOpen(false);
         const element = document.getElementById(id);
@@ -50,7 +42,6 @@ export default function PivotPage() {
     return (
         <main
             className="min-h-screen flex flex-col items-center relative overflow-hidden bg-black text-white selection:bg-white selection:text-black group font-sans"
-            onMouseMove={handleMouseMove}
         >
 
             {/* Background Ambience: CLEAN (No Grid) + Subtle Noise + Glow */}
@@ -61,19 +52,6 @@ export default function PivotPage() {
             <div className="fixed inset-0 z-0 opacity-40 pointer-events-none">
                 <HeroBackground />
             </div>
-
-            <motion.div
-                className="pointer-events-none fixed inset-0 z-30 transition-opacity duration-300 opacity-0 group-hover:opacity-100"
-                style={{
-                    background: useMotionTemplate`
-            radial-gradient(
-              650px circle at ${mouseX}px ${mouseY}px,
-              rgba(255, 255, 255, 0.08),
-              transparent 80%
-            )
-          `,
-                }}
-            />
 
             {/* Tech Interface Navigation - V3 (Hamburger Only) */}
             <nav className="absolute top-0 w-full p-8 flex justify-between items-start z-50 pointer-events-none">

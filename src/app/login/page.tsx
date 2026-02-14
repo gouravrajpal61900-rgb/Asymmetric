@@ -5,8 +5,13 @@ import { useRouter } from 'next/navigation';
 import { useAuth } from '@/context/AuthContext';
 import { SectionWrapper } from '@/components/SectionWrapper';
 import { Lock, Mail, ArrowRight } from 'lucide-react';
-import { HeroBackground } from '@/components/pivot/HeroBackground';
+import dynamic from 'next/dynamic';
 import { motion } from 'framer-motion';
+
+const HeroBackground = dynamic(() => import('@/components/pivot/HeroBackground').then(mod => mod.HeroBackground), {
+    ssr: false,
+    loading: () => <div className="fixed inset-0 bg-black" />
+});
 
 export default function LoginPage() {
     const [isLogin, setIsLogin] = useState(true);

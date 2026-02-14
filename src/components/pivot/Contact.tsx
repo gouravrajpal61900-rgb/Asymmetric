@@ -66,7 +66,6 @@ export function Contact() {
                 body: JSON.stringify(data),
             });
 
-            console.log("Pivot Form Data Sent:", data);
             setIsSuccess(true);
             reset();
         } catch (err) {
